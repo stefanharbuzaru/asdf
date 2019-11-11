@@ -1,0 +1,12 @@
+body {
+  background-color: grey ;
+}
+p  {
+  font-family: "Comic Sans MS", cursive, sans-serif; color: green; text-allign:center
+}
+.nume{color:blue;
+}
+
+
+#valoare{color: red}
+td{background-color: yellow}
